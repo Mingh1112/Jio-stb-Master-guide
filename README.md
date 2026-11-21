@@ -1,10 +1,12 @@
 # Jio STB (JHS Series / JMSC200A) — Complete Master Guide
 ### ADB Enable + Monet Launcher + App Install — Full Working Record
 
-ADB Access JHS-series (JioOS 2.0) Jio STB par **already successfully ho chuka hai**. Isme har step, har command, expected output, aur jo bhi errors aaye unke fix — sab ek jagah hai.guide follow karo.
+ADB Access JHS-series (JioOS 2.0) Jio STB par **already successfully ho chuka hai**. Isme har step, har command, expected output, aur jo bhi errors aaye unke fix — sab ek jagah hai. Guide follow karo.
 
 **Aapka device:** JMSC200A / JHS series, Android 11, 32-bit
+
 **STB IP (is setup mein):** 192.168.2.187
+
 **PC ka LAN IP (is setup mein):** 192.168.2.202
 
 ---
